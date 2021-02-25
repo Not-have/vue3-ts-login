@@ -1,0 +1,3 @@
+<template>
+    vuex
+</template>

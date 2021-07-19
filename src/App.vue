@@ -1,3 +1,7 @@
+/* 
+CSS样式重置：
+https://meyerweb.com/eric/tools/css/reset/
+*/
 <template>
   <div id="app">
     <router-view />
